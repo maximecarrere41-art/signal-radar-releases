@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/user-attachments/assets/14dc8ec0-adc6-4fd5-a16d-6ccc12a1d661" alt="Signal Radar — Automatisez votre veille" width="900"></p>
+
 # 📡 Signal Radar
 
 ### Votre veille intelligente, automatisée et personnalisée
@@ -35,13 +37,40 @@ Si un fournisseur IA est indisponible, l’application dispose d’un **mode de 
 
 ## 📱 Découvrez l’application
 
-**Tableau de bord** — Retrouvez vos profils, vos sources, l’état de l’IA et de l’envoi e-mail, ainsi que la prochaine analyse prévue.
+Un tableau de bord pour piloter votre veille, des profils et des sources personnalisables, et des synthèses faciles à consulter ou à recevoir par e-mail.
 
-**Synthèses** — Parcourez vos synthèses précédentes et déclenchez une analyse des nouveautés quand vous le souhaitez.
+<table>
+  <tr>
+    <td align="center"><strong>Tableau de bord</strong></td>
+    <td align="center"><strong>Profils de veille</strong></td>
+    <td align="center"><strong>Sources à surveiller</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/32551e20-5531-46ad-9b39-a0297f397524" alt="Tableau de bord Signal Radar" width="250"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/b40fb6a4-56a9-465f-9347-02f4734e2604" alt="Profils Signal Radar" width="250"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/4c0729ad-4322-4d97-a337-dbc4c8196de6" alt="Gestion des sources Signal Radar" width="250"></td>
+  </tr>
+  <tr>
+    <td align="center">Suivez l’état de votre veille et les prochaines analyses.</td>
+    <td align="center">Organisez vos centres d’intérêt et les personnes suivies.</td>
+    <td align="center">Ajoutez, testez et gérez vos sources.</td>
+  </tr>
+</table>
 
-**Sources et profils** — Personnalisez les sujets suivis, ajoutez des sources et vérifiez leur fonctionnement.
-
-**Synthèse par e-mail** — Recevez une présentation lisible des publications retenues, avec leur thème, leur importance et un résumé.
+<table>
+  <tr>
+    <td align="center"><strong>Historique des synthèses</strong></td>
+    <td align="center"><strong>Exemple de synthèse</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/323b2c96-592e-481e-a3fc-1e40f3b689bd" alt="Historique des synthèses Signal Radar" width="270"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/299519c8-a513-494d-acb8-1c9c99d12df1" alt="Exemple de synthèse générée par Signal Radar" width="360"></td>
+  </tr>
+  <tr>
+    <td align="center">Retrouvez les analyses et relancez une synthèse à la demande.</td>
+    <td align="center">L’essentiel des publications avec leur sujet et leur importance.</td>
+  </tr>
+</table>
 
 ## 📥 Installer Signal Radar sur Android
 
@@ -49,8 +78,6 @@ Si un fournisseur IA est indisponible, l’application dispose d’un **mode de 
 2. Téléchargez le fichier **`.apk`** dans la section **Assets**.
 3. Ouvrez le fichier téléchargé sur votre téléphone Android.
 4. Autorisez l’installation depuis cette source si Android vous le demande, puis installez l’application.
-
-> **Déjà utilisateur de la version Google Play ?** La signature de l’APK GitHub peut différer de celle de la version Play Store. La mise à jour directe peut donc échouer. Sauvegardez vos données avant toute désinstallation.
 
 ## 🔐 Données, configuration et coût
 
